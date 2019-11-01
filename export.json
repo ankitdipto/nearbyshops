@@ -1,0 +1,1105 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1009 5e627b63",
+  "osm3s": {
+    "timestamp_osm_base": "2019-11-01T10:13:02Z",
+    "timestamp_areas_base": "2019-11-01T08:57:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 988809599,
+      "lat": 25.3045088,
+      "lon": 83.0079107,
+      "tags": {
+        "name": "New Brigth Star",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1531140952,
+      "lat": 25.2886478,
+      "lon": 83.0059416,
+      "tags": {
+        "addr:postcode": "221005",
+        "addr:street": "Assi Ghat",
+        "name": "Harmony Bookshop",
+        "shop": "books",
+        "website": "https://www.harmonybooksonline.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1531237756,
+      "lat": 25.3054801,
+      "lon": 82.9809619,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1531237795,
+      "lat": 25.3044075,
+      "lon": 82.9778594,
+      "tags": {
+        "name": "Spencer's",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563515664,
+      "lat": 25.2912775,
+      "lon": 82.9992912,
+      "tags": {
+        "name": "maa vaishno digital color prints",
+        "shop": "printshop",
+        "website": "http://maavaishnodigital.in/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1702233802,
+      "lat": 25.3086907,
+      "lon": 83.0096737,
+      "tags": {
+        "addr:city": "Varanasi",
+        "name": "Shiva Spice Shop",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1702247670,
+      "lat": 25.3089525,
+      "lon": 83.0069164,
+      "tags": {
+        "name": "City Book Shop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2618268414,
+      "lat": 25.3091835,
+      "lon": 83.0062465,
+      "tags": {
+        "addr:city": "Varanasi",
+        "addr:housename": "D-40/12 Godowliya Varanasi",
+        "addr:street": "Luxa Road",
+        "name": "Jyoti Electronic",
+        "operator": "Electronics Shop",
+        "phone": "0542-2452400",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437149954,
+      "lat": 25.3102497,
+      "lon": 83.0072609,
+      "tags": {
+        "name": "Grace Studio",
+        "shop": "photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3670045565,
+      "lat": 25.2973791,
+      "lon": 83.001126,
+      "tags": {
+        "name": "Gini & Jony",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3670045566,
+      "lat": 25.2974449,
+      "lon": 83.0012604,
+      "tags": {
+        "name": "Peter England",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3670045567,
+      "lat": 25.2974998,
+      "lon": 83.0012138,
+      "tags": {
+        "name": "Club Fox",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3670045568,
+      "lat": 25.2974514,
+      "lon": 83.0011733,
+      "tags": {
+        "name": "Vodafone",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3672887626,
+      "lat": 25.2985353,
+      "lon": 83.0019672,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4079444247,
+      "lat": 25.295844,
+      "lon": 83.0045101,
+      "tags": {
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4139962194,
+      "lat": 25.3002784,
+      "lon": 82.9988866,
+      "tags": {
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4143915889,
+      "lat": 25.3165421,
+      "lon": 82.990257,
+      "tags": {
+        "name": "Vijaya",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4144805090,
+      "lat": 25.3102478,
+      "lon": 82.9891424,
+      "tags": {
+        "name": "Internet Cafe Cyber Zone",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292038489,
+      "lat": 25.3112905,
+      "lon": 83.0111314,
+      "tags": {
+        "name": "Sweets",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4331228789,
+      "lat": 25.2895752,
+      "lon": 83.0042314,
+      "tags": {
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4518456989,
+      "lat": 25.3077972,
+      "lon": 83.0011718,
+      "tags": {
+        "addr:housenumber": "D44/84",
+        "addr:postcode": "221010",
+        "addr:street": "Luxa Road",
+        "email": "sms.group2010@yahoo.in",
+        "name:en": "SMS GROUP",
+        "phone": "9236706222",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4527820495,
+      "lat": 25.3053256,
+      "lon": 83.0083881,
+      "tags": {
+        "addr:street": "Bangali Tola Lane D. 32/13 Dasashwamedh Varanasi",
+        "name": "French Bakers",
+        "opening_hours": "Tu-Su 06:00-17:00",
+        "phone": "+919161264217",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4570395689,
+      "lat": 25.3415594,
+      "lon": 82.9817291,
+      "tags": {
+        "name:en": "Motorbike repair shop",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4599171789,
+      "lat": 25.305317,
+      "lon": 83.0083218,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "french bakers",
+        "name:fr": "french bakers",
+        "name:hi": "french bakers",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4600041989,
+      "lat": 25.3070463,
+      "lon": 83.0061151,
+      "tags": {
+        "name": "Laudry",
+        "name:fr": "laudry",
+        "name:hi": "Laudry",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4637003589,
+      "lat": 25.310076,
+      "lon": 82.9663279,
+      "tags": {
+        "name:fr": "Tata Benares Garage",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4645384082,
+      "lat": 25.3599754,
+      "lon": 82.9433283,
+      "tags": {
+        "addr:city": "Varanasi",
+        "addr:housenumber": "A2 Chandra Green",
+        "addr:postcode": "221003",
+        "addr:street": "Shivpur Railway Crossing",
+        "name": "Rituk Blossom",
+        "shop": "hairdresser",
+        "shop_1": "beauty_nail_salon",
+        "shop_2": "spa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4687206689,
+      "lat": 25.292505,
+      "lon": 83.0048647,
+      "tags": {
+        "name:en": "Fab India",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4700370791,
+      "lat": 25.3137582,
+      "lon": 82.9902802,
+      "tags": {
+        "name": "Lenskart",
+        "name:hi": "Lenskart",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724014791,
+      "lat": 25.3100559,
+      "lon": 83.0028115,
+      "tags": {
+        "name:en": "Pdr Mall",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4743722250,
+      "lat": 25.3041851,
+      "lon": 82.9752975,
+      "tags": {
+        "name": "Bajaj Service",
+        "shop": "motorcycle_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4743738021,
+      "lat": 25.3510533,
+      "lon": 82.9757937,
+      "tags": {
+        "name": "Spencer's",
+        "shop": "supermarket",
+        "website": "http://www.spencersretail.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4783957121,
+      "lat": 25.3091605,
+      "lon": 83.0068369,
+      "tags": {
+        "name:en": "Govt. Bhang Lassi Shop",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4825578824,
+      "lat": 25.3244514,
+      "lon": 82.9893241,
+      "tags": {
+        "name:en": "Mehrotra Silk Factory",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4825585621,
+      "lat": 25.3005006,
+      "lon": 83.0017019,
+      "tags": {
+        "addr:housenumber": "B12/1209A",
+        "addr:street": "Bhelpura",
+        "name:en": "Baba Blacksheep",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4825585622,
+      "lat": 25.3193404,
+      "lon": 83.0229201,
+      "tags": {
+        "name:en": "Mehrotra Silk Factory",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828093721,
+      "lat": 25.3090409,
+      "lon": 83.009556,
+      "tags": {
+        "addr:postcode": "221001",
+        "addr:street": "Dashashwamedh Road",
+        "name:en": "Dashaswamedh Market",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828196725,
+      "lat": 25.2909556,
+      "lon": 83.0047873,
+      "tags": {
+        "addr:postcode": "221001",
+        "addr:street": "Assi Road",
+        "name:en": "Silk veg boutique",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828209123,
+      "lat": 25.2896364,
+      "lon": 83.0062401,
+      "tags": {
+        "addr:housenumber": "B1/153",
+        "addr:postcode": "221005",
+        "addr:street": "Ganga Math",
+        "name:en": "The bed silk and pashmina",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828236522,
+      "lat": 25.2926303,
+      "lon": 83.0048639,
+      "tags": {
+        "name:en": "Shri Ghandi Ashram Kadi",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4845078243,
+      "lat": 25.3021874,
+      "lon": 82.9868426,
+      "tags": {
+        "addr:city": "Varanasi (Uttar Pradesh)",
+        "addr:housenumber": "B-21",
+        "addr:postcode": "221001",
+        "addr:street": "Near SPPetrol Pump Kamachha",
+        "email": "info@banarasiweavespoint.com",
+        "name": "Absolute Fashion (Banarasiweavespoint)",
+        "opening_hours": "24/7",
+        "shop": "clothes",
+        "website": "http://www.banarasiweavespoint.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4883150621,
+      "lat": 25.3122748,
+      "lon": 83.0111996,
+      "tags": {
+        "name:en": "Shree Rajbandhu Sweets, since 1887",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4883150821,
+      "lat": 25.3123148,
+      "lon": 83.011213,
+      "tags": {
+        "name:en": "Shree Rajbandhu Sweets, since 1887",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5194727021,
+      "lat": 25.3105617,
+      "lon": 83.0129229,
+      "tags": {
+        "name:en": "Vinayaka Musical Instruments",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5227009033,
+      "lat": 25.3314775,
+      "lon": 82.9816852,
+      "tags": {
+        "name:ja": "シルク販売",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5227009034,
+      "lat": 25.3333645,
+      "lon": 82.995884,
+      "tags": {
+        "name:en": "Sunrise",
+        "name:ja": "サンライズ",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5250514121,
+      "lat": 25.312951,
+      "lon": 83.0057351,
+      "tags": {
+        "addr:street": "Nai Sarak Road",
+        "name": "Dalmundi Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5280021422,
+      "lat": 25.2967896,
+      "lon": 83.004371,
+      "tags": {
+        "name:en": "Vishal Megamart",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5293444832,
+      "lat": 25.3351873,
+      "lon": 83.0560463,
+      "tags": {
+        "name:en": "Saray Mohana Silk weavers",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5415944321,
+      "lat": 25.376473,
+      "lon": 83.0233504,
+      "tags": {
+        "name:en": "Himalaya Shop",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5437046223,
+      "lat": 25.2915573,
+      "lon": 83.0017916,
+      "tags": {
+        "name": "Bala Ji Handicraft",
+        "operator": "Suresh Seth",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5495781023,
+      "lat": 25.2680632,
+      "lon": 82.7099555,
+      "tags": {
+        "name": "Food Market, Fruit and Cooked",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5497117622,
+      "lat": 25.293176,
+      "lon": 83.0023372,
+      "tags": {
+        "name": "Desert shop-try Ja moon",
+        "name:hi": "Dessert shop-try Ja moon",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5500367221,
+      "lat": 25.2950443,
+      "lon": 83.0004336,
+      "tags": {
+        "name": "vodafone",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5600825222,
+      "lat": 25.3797802,
+      "lon": 82.9704715,
+      "tags": {
+        "name": "recharge +Sim",
+        "name:hi": "recharge Sim",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5792133055,
+      "lat": 25.3570551,
+      "lon": 83.0033122,
+      "tags": {
+        "name": "MI mobile operators",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5792147953,
+      "lat": 25.3816724,
+      "lon": 82.9702489,
+      "tags": {
+        "name": "photocopy namelist",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5895990885,
+      "lat": 25.3399979,
+      "lon": 82.9822634,
+      "tags": {
+        "name:en": "Wine Shop",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5906050985,
+      "lat": 25.2924269,
+      "lon": 83.0049133,
+      "tags": {
+        "name:en": "Silk Shop (locals will take you here for commission)",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009157085,
+      "lat": 25.3061348,
+      "lon": 83.0074201,
+      "tags": {
+        "name": "German bread bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6055645886,
+      "lat": 25.3002935,
+      "lon": 83.004505,
+      "tags": {
+        "name": "Ksheer Sagar",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6089269494,
+      "lat": 25.2828377,
+      "lon": 83.0026106,
+      "tags": {
+        "name:en": "The Turning Point Laundromat",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6147459685,
+      "lat": 25.3093967,
+      "lon": 83.0030423,
+      "tags": {
+        "name": "PDR Mall",
+        "name:de": "PDR Mall",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6163760192,
+      "lat": 25.2888139,
+      "lon": 83.006022,
+      "tags": {
+        "name:en": "Indica Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164091885,
+      "lat": 25.2979455,
+      "lon": 83.0061884,
+      "tags": {
+        "name:en": "Kashi Temple (south India)",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6251327586,
+      "lat": 25.3033489,
+      "lon": 83.0073427,
+      "tags": {
+        "email": "info@brownbreadbakery.com",
+        "internet_access": "wlan",
+        "name:en": "German Bakery (Actual Location)",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "09838888823",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6373579085,
+      "lat": 25.308718,
+      "lon": 83.0109695,
+      "tags": {
+        "name:he": "טאלי ב40",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6380751892,
+      "lat": 25.2953349,
+      "lon": 83.0055588,
+      "tags": {
+        "name:en": "Ali Handicraft House (really the best)",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "8418804345",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6383892785,
+      "lat": 25.326747,
+      "lon": 82.9861807,
+      "tags": {
+        "name:en": "INTERNATIONAL TOURIST LOUNGE AND RESERVATION CENTER",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6447820890,
+      "lat": 25.3080281,
+      "lon": 83.0093503,
+      "tags": {
+        "name:ja": "親切な布屋",
+        "shop": "toys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6447821089,
+      "lat": 25.310331,
+      "lon": 83.0112775,
+      "tags": {
+        "name:ja": "ゴールデンテンプル",
+        "shop": "toys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6447831191,
+      "lat": 25.3092154,
+      "lon": 83.0068583,
+      "tags": {
+        "name:ja": "ゴードウリヤー交差点",
+        "shop": "toys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6918520886,
+      "lat": 25.3103764,
+      "lon": 83.0075065,
+      "tags": {
+        "name:en": "Fabric Street",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26753005,
+      "nodes": [
+        293449151,
+        293449152,
+        293449153,
+        293449154,
+        293449155,
+        293449156,
+        293449157,
+        293449158,
+        293449159,
+        293449151
+      ],
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 278013092,
+      "nodes": [
+        2824437779,
+        6262599127,
+        2824437780,
+        2824437781,
+        2824437782,
+        2824437779
+      ],
+      "tags": {
+        "addr:city": "Varanasi",
+        "addr:housenumber": "CGM101",
+        "addr:postcode": "221003",
+        "addr:street": "Chandra Green, Shivpur",
+        "building": "yes",
+        "name": "Chaupal Mega Mart",
+        "operator": "Grocery Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 363080615,
+      "nodes": [
+        3672887625,
+        3672885115,
+        3672885114,
+        3672885116,
+        3672885117,
+        3672885118,
+        3672885119,
+        3672885120,
+        3672885121,
+        3672885122,
+        3672885123,
+        3672885124,
+        3672887625
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 407528671,
+      "nodes": [
+        4095821312,
+        4095821306,
+        4095821304,
+        4095821302,
+        4095821303,
+        4095821301,
+        4095821307,
+        4095821308,
+        4095821310,
+        4095821317,
+        4095821313,
+        4095821312
+      ],
+      "tags": {
+        "building": "commercial",
+        "building:levels": "4",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293449151,
+      "lat": 25.3163288,
+      "lon": 82.9895456
+    },
+    {
+      "type": "node",
+      "id": 293449152,
+      "lat": 25.3166314,
+      "lon": 82.9897773
+    },
+    {
+      "type": "node",
+      "id": 293449153,
+      "lat": 25.3168409,
+      "lon": 82.9901807
+    },
+    {
+      "type": "node",
+      "id": 293449154,
+      "lat": 25.3169961,
+      "lon": 82.990464
+    },
+    {
+      "type": "node",
+      "id": 293449155,
+      "lat": 25.3170426,
+      "lon": 82.9907215
+    },
+    {
+      "type": "node",
+      "id": 293449156,
+      "lat": 25.3168409,
+      "lon": 82.9906871
+    },
+    {
+      "type": "node",
+      "id": 293449157,
+      "lat": 25.3166314,
+      "lon": 82.9904983
+    },
+    {
+      "type": "node",
+      "id": 293449158,
+      "lat": 25.316484,
+      "lon": 82.990258
+    },
+    {
+      "type": "node",
+      "id": 293449159,
+      "lat": 25.3163599,
+      "lon": 82.9899232
+    },
+    {
+      "type": "node",
+      "id": 4095821301,
+      "lat": 25.3353568,
+      "lon": 82.9777744
+    },
+    {
+      "type": "node",
+      "id": 4095821302,
+      "lat": 25.335369,
+      "lon": 82.9776778
+    },
+    {
+      "type": "node",
+      "id": 4095821303,
+      "lat": 25.3354053,
+      "lon": 82.9776859
+    },
+    {
+      "type": "node",
+      "id": 4095821304,
+      "lat": 25.3354271,
+      "lon": 82.9775223
+    },
+    {
+      "type": "node",
+      "id": 4095821306,
+      "lat": 25.3356526,
+      "lon": 82.9771575
+    },
+    {
+      "type": "node",
+      "id": 4095821307,
+      "lat": 25.3357277,
+      "lon": 82.9779353
+    },
+    {
+      "type": "node",
+      "id": 4095821308,
+      "lat": 25.3357593,
+      "lon": 82.9778066
+    },
+    {
+      "type": "node",
+      "id": 4095821310,
+      "lat": 25.3358174,
+      "lon": 82.977828
+    },
+    {
+      "type": "node",
+      "id": 4095821312,
+      "lat": 25.3358659,
+      "lon": 82.9769322
+    },
+    {
+      "type": "node",
+      "id": 4095821313,
+      "lat": 25.335878,
+      "lon": 82.9770046
+    },
+    {
+      "type": "node",
+      "id": 4095821317,
+      "lat": 25.3360405,
+      "lon": 82.9770529
+    },
+    {
+      "type": "node",
+      "id": 3672885114,
+      "lat": 25.2972617,
+      "lon": 83.0010081
+    },
+    {
+      "type": "node",
+      "id": 3672885115,
+      "lat": 25.2972704,
+      "lon": 83.0009402
+    },
+    {
+      "type": "node",
+      "id": 3672885116,
+      "lat": 25.2972771,
+      "lon": 83.0010262
+    },
+    {
+      "type": "node",
+      "id": 3672885117,
+      "lat": 25.2973347,
+      "lon": 83.0010368
+    },
+    {
+      "type": "node",
+      "id": 3672885118,
+      "lat": 25.2973404,
+      "lon": 83.0011759
+    },
+    {
+      "type": "node",
+      "id": 3672885119,
+      "lat": 25.2973634,
+      "lon": 83.0012436
+    },
+    {
+      "type": "node",
+      "id": 3672885120,
+      "lat": 25.2974075,
+      "lon": 83.0012954
+    },
+    {
+      "type": "node",
+      "id": 3672885121,
+      "lat": 25.2974659,
+      "lon": 83.0013262
+    },
+    {
+      "type": "node",
+      "id": 3672885122,
+      "lat": 25.2974985,
+      "lon": 83.0013307
+    },
+    {
+      "type": "node",
+      "id": 3672887625,
+      "lat": 25.2976342,
+      "lon": 83.0009805
+    },
+    {
+      "type": "node",
+      "id": 3672885123,
+      "lat": 25.2975005,
+      "lon": 83.0014118
+    },
+    {
+      "type": "node",
+      "id": 3672885124,
+      "lat": 25.2976105,
+      "lon": 83.001423
+    },
+    {
+      "type": "node",
+      "id": 2824437779,
+      "lat": 25.3599726,
+      "lon": 82.9434718
+    },
+    {
+      "type": "node",
+      "id": 2824437780,
+      "lat": 25.35992,
+      "lon": 82.9435774
+    },
+    {
+      "type": "node",
+      "id": 2824437781,
+      "lat": 25.3598247,
+      "lon": 82.9435155
+    },
+    {
+      "type": "node",
+      "id": 2824437782,
+      "lat": 25.3598773,
+      "lon": 82.9434209
+    },
+    {
+      "type": "node",
+      "id": 6262599127,
+      "lat": 25.3599485,
+      "lon": 82.9435201
+    }
+  ]
+}
